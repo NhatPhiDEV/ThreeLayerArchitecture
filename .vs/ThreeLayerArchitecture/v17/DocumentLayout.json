@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\ThreeLayerArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\coding\\threelayerarchitecture\\dataaccesslayer\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\coding\\threelayerarchitecture\\dataaccesslayer\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\coding\\threelayerarchitecture\\dataaccesslayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96A5557-8ED3-401B-A2ED-A690B684C53C}|ThreeLayerArchitecture.Tests\\ThreeLayerArchitecture.Tests.csproj|c:\\coding\\threelayerarchitecture\\threelayerarchitecture.tests\\courserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96A5557-8ED3-401B-A2ED-A690B684C53C}|ThreeLayerArchitecture.Tests\\ThreeLayerArchitecture.Tests.csproj|solutionrelative:threelayerarchitecture.tests\\courserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\coding\\threelayerarchitecture\\dataaccesslayer\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\coding\\threelayerarchitecture\\dataaccesslayer\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\coding\\threelayerarchitecture\\dataaccesslayer\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39F511-4D4B-4C6C-8222-609D824C9CE4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Common\\Enums.cs",
+              "ToolTip": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Common\\Enums.cs",
+              "RelativeToolTip": "DataAccessLayer\\Common\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:40:01.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UnitOfWork.cs",
+              "ToolTip": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\UnitOfWork.cs",
+              "RelativeToolTip": "DataAccessLayer\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:42:16.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\IUnitOfWork.cs",
+              "RelativeToolTip": "DataAccessLayer\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:42:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:30:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Coding\\ThreeLayerArchitecture\\ThreeLayerArchitecture.Tests\\CourseRepositoryTests.cs",
+              "RelativeDocumentMoniker": "ThreeLayerArchitecture.Tests\\CourseRepositoryTests.cs",
+              "ToolTip": "C:\\Coding\\ThreeLayerArchitecture\\ThreeLayerArchitecture.Tests\\CourseRepositoryTests.cs",
+              "RelativeToolTip": "ThreeLayerArchitecture.Tests\\CourseRepositoryTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvwYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:26:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:20:47.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Coding\\ThreeLayerArchitecture\\DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:07:12.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

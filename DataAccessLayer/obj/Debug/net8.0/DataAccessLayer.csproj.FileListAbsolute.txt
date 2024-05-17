@@ -1,0 +1,15 @@
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\net8.0\Entities.dll
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\net8.0\Entities.pdb
+C:\Coding\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date

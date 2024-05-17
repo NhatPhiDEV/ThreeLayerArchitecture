@@ -1,0 +1,11 @@
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Coding\ThreeLayerArchitecture\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
